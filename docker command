@@ -1,0 +1,2 @@
+13  docker container run --publish 80:80 --detach httpd
+   14  docker ps
